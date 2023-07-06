@@ -3,7 +3,7 @@
 ## 🌱 I’m currently learning java, C# and python
 ## 💬 Ask me about Java, HTML, CSS, JavaScript, Matlab, C, C# and Python
 ##   📫 Connect with me: 
-[instagram](https://open.spotify.com/show/52YrCMBeMyFm0FKAPAWQZl)(instagram.com/bobrossiotta)
+[instagram](instagram.com/bobrossiotta)
 
 <!---
 bobrossiotta/bobrossiotta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
